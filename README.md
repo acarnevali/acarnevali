@@ -6,7 +6,7 @@ My name is Amanda and I'm a Back-end developer 👩🏻‍💻. I'm from Brazil,
 ##### BIO
 
 
-- ⚙️ I use daily: `.ts`, `.js`, `nodejs`, `typeorm`
+- ⚙️ I use daily: `.ts`, `.js`, `nodejs`, `typeorm`, `firebase`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Open Source**
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter and Stranger Things
